@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saspess
 - 👀 I’m interested in .NET developmend
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning in Minsk Radioengineering college
+- 💞️ I’m looking to collaborate on .NET
 - 📫 How to reach me https://t.me/Saspes_s
 
 <!---
