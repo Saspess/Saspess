@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saspess
 - 👀 I’m interested in .NET developmend
-- 🌱 I’m currently learning in Minsk Radioengineering college
+- 🌱 I’m currently learning C#, Entity, ASP.NET
 - 💞️ I’m looking to collaborate on .NET
 - 📫 How to reach me https://t.me/Saspes_s
 
